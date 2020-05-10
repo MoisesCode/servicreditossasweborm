@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\ParcialesWeb\ServiCreditosSasWeb\Logica\bin\Debug\netstandard2.0\Logica.deps.json
+C:\Users\User\Desktop\ParcialesWeb\ServiCreditosSasWeb\Logica\bin\Debug\netstandard2.0\Logica.dll
+C:\Users\User\Desktop\ParcialesWeb\ServiCreditosSasWeb\Logica\bin\Debug\netstandard2.0\Logica.pdb
+C:\Users\User\Desktop\ParcialesWeb\ServiCreditosSasWeb\Logica\bin\Debug\netstandard2.0\Datos.dll
+C:\Users\User\Desktop\ParcialesWeb\ServiCreditosSasWeb\Logica\bin\Debug\netstandard2.0\Entity.dll
+C:\Users\User\Desktop\ParcialesWeb\ServiCreditosSasWeb\Logica\bin\Debug\netstandard2.0\Datos.pdb
+C:\Users\User\Desktop\ParcialesWeb\ServiCreditosSasWeb\Logica\bin\Debug\netstandard2.0\Entity.pdb
+C:\Users\User\Desktop\ParcialesWeb\ServiCreditosSasWeb\Logica\obj\Debug\netstandard2.0\Logica.csprojAssemblyReference.cache
+C:\Users\User\Desktop\ParcialesWeb\ServiCreditosSasWeb\Logica\obj\Debug\netstandard2.0\Logica.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ParcialesWeb\ServiCreditosSasWeb\Logica\obj\Debug\netstandard2.0\Logica.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ParcialesWeb\ServiCreditosSasWeb\Logica\obj\Debug\netstandard2.0\Logica.AssemblyInfo.cs
+C:\Users\User\Desktop\ParcialesWeb\ServiCreditosSasWeb\Logica\obj\Debug\netstandard2.0\Logica.csproj.CopyComplete
+C:\Users\User\Desktop\ParcialesWeb\ServiCreditosSasWeb\Logica\obj\Debug\netstandard2.0\Logica.dll
+C:\Users\User\Desktop\ParcialesWeb\ServiCreditosSasWeb\Logica\obj\Debug\netstandard2.0\Logica.pdb
